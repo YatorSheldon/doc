@@ -1,0 +1,4 @@
+cd C:\Users\yator\source\repos\multipleAccounts
+git init
+git add .
+git commit -m "Initial commit of multipleAccounts project"
